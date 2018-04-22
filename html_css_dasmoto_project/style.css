@@ -1,28 +1,30 @@
-h1 {font-family: Helvetica;
-    font-size: 100px; font-weight: bold;
-    text-align: center;
-    color: khaki;
-    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
-    }
-.brush {font-family: Helvetica;
-      font-size: 32px;
-      font-weight: bold;
-      color: white;
-      background-color: MediumSpringGreen;
-      }
-.frame {font-family: Helvetica;
-       font-size: 32px;
-       font-weight: bold;
-       color: white;
-       background-color: LightCoral;
-       }
-.paint {font-family: Helvetica;
-       font-size: 32px;
-       font-weight: bold;
-       color: white;
-       background-color: SkyBlue; 
-       }
-#hacksaw, #assorted, #tube {font-family: Helvetica;
-                            font-weight: bold;
-                            color: blue;
-                            }
+h1 {
+  font-family: Helvetica;
+  font-size: 100px; font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+p, h3 {
+  font-family: Helvetica;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.brush {
+  background-color: MediumSpringGreen;
+}
+.frame {
+  background-color: LightCoral;
+}
+.paint {
+  background-color: SkyBlue;
+}
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
